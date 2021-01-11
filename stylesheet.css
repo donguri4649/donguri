@@ -212,7 +212,7 @@ footer {
   top: 0;
   left: 0;
   z-index: 9999;
-  animation: sk-scaleout 1000.0s  ease-in-out;
+  animation: sk-scaleout 3.0s  ease-in-out;
   animation-fill-mode: forwards;
   background-image: url(https://cdn.pixabay.com/photo/2017/05/18/15/05/chipmunk-2323827_960_720.jpg);
 }
