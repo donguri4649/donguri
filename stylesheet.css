@@ -261,5 +261,6 @@ footer {
   90% {opacity: 0.1;
     letter-spacing: 5px;}
   100% {opacity: 0;
-    letter-spacing: 5px;}
+    letter-spacing: 5px;
+   visibility:hidden}
 }
